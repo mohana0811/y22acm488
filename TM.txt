@@ -1,0 +1,23 @@
+1. Write a Python program to import the `sqrt` function from the `math` module and calculate the square root of 16.
+
+2. Write a Python program to get the current date and time using the `datetime` module.
+
+3. Write a Python program to calculate the difference in days between two dates using the `datetime` module.
+
+4. Write a Python program that waits for 5 seconds before printing "Hello World" using the `time` module.
+
+5. Write a Python program to measure the execution time of a function using the `time` module.
+
+6. Write a Python function that calculates the mean, median, and mode of a given list using the `statistics` module.
+
+7. Write a Python program to generate a random number between 1 and 10 using the `statistics` module.
+
+8. Write a Python program to calculate the variance of a list using the `statistics` module.
+
+9. Write a Python program to calculate the greatest common divisor (GCD) of two numbers using the `math` module.
+
+10. Write a Python program to compute the factorial of a number using the `math` module.
+
+11. Write a Python module that contains a function to add two numbers. Then, write a separate Python script to import this module and use the function.
+
+12. Create a Python module that contains two functions: one to calculate the area of a circle and another to calculate the circumference. Write a separate Python script to import the module and use both functions.
